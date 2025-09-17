@@ -22,7 +22,7 @@ A bash script to manage multiple local tunnels through Cloudflare’s `cloudflar
 ## Installation
 
 1. Save the script
-2. Make it executable: `chmod +x cf-tunnel-manager.sh`
-3. run `./cf-tunnel-manager.sh`
+2. Make it executable: `chmod +x cf_tunnel_manager.sh`
+3. run `./cf_tunnel_manager.sh`
 
 Vibe coded in 5 seconds, works well tho.
